@@ -10,3 +10,4 @@ distrobox create -Y -n trisquel -i kpengboy/trisquel
 distrobox create -Y -n chimera  -i chimeralinux/chimera
 distrobox create -Y -n fedora   -i fedora
 distrobox create -Y -n deepin   -i linuxdeepin/deepin
+distrobox create -Y -n pureos   -i pureos/pureos
