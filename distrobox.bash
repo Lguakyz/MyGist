@@ -1,0 +1,12 @@
+distrobox create -Y -n arch     -i archlinux
+distrobox create -Y -n alpine   -i alpine
+distrobox create -Y -n adelie   -i adelielinux/adelie
+distrobox create -Y -n artix    -i artixlinux/artixlinux
+distrobox create -Y -n amazon   -i amazonlinux
+distrobox create -Y -n oracle   -i oraclelinux:10
+distrobox create -Y -n debian   -i debian
+distrobox create -Y -n ubuntu   -i ubuntu
+distrobox create -Y -n trisquel -i kpengboy/trisquel
+distrobox create -Y -n chimera  -i chimeralinux/chimera
+distrobox create -Y -n fedora   -i fedora
+distrobox create -Y -n deepin   -i linuxdeepin/deepin
