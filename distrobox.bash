@@ -6,7 +6,7 @@ distrobox create -Y -n amazon   -i amazonlinux
 distrobox create -Y -n oracle   -i oraclelinux:10
 distrobox create -Y -n debian   -i debian
 distrobox create -Y -n ubuntu   -i ubuntu
-distrobox create -Y -n trisquel -i docker.io/kpengboy/trisquel
+distrobox create -Y -n trisquel -i docker.io/kpengboy/trisquel:aramo
 distrobox create -Y -n chimera  -i docker.io/chimeralinux/chimera
 distrobox create -Y -n fedora   -i fedora
 distrobox create -Y -n deepin   -i docker.io/linuxdeepin/deepin
