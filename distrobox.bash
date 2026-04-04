@@ -12,3 +12,5 @@ distrobox create -Y -n fedora   -i fedora
 distrobox create -Y -n deepin   -i docker.io/linuxdeepin/deepin
 distrobox create -Y -n pureos   -i docker.io/pureos/pureos
 distrobox create -Y -n gentoo   -i docker.io/gentoo/stage3
+distrobox create -Y -n rocky    -i docker.io/rockylinux/rockylinux
+distrobox create -Y -n alma     -i almalinux
